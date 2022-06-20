@@ -1,0 +1,7 @@
+{
+  "name": "ionicTest-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
